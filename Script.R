@@ -7,6 +7,8 @@
 #'      highlight: default
 #' ---
 
+#' NEW TEST FROM DAVID
+#' 
 #' This lesson will introduce you to linear regression modeling in R. We will cover how to create a model and analyze the significance of the slope and how to check the assumptions.
 #' 
 #'
